@@ -23,7 +23,7 @@ Request Format
 {
     "id": "<player_id>",
     "pw": "<player_pw>",
-    "port": "<player_port>" // 플레이어가 듣기 위해 열고 있을 포트
+    "port": "<player_port>"
 }
 ```
 
@@ -43,7 +43,7 @@ login과 같은 방향으로 운영되고 회원가입 업무를 처리합니다
 {
     "id": "<player_id>",
     "pw": "<player_pw>",
-    "port": "<player_port>" // 플레이어가 듣기 위해 열고 있을 포트
+    "port": "<player_port>"
 }
 ```
 
